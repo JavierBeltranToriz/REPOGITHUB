@@ -1,6 +1,5 @@
-import sys
+#Introducción a Python
 
-sys("clc")
 print ("Hola Mundo!")
 print("Ctrl + s, para guardar documentos")
 print("Weta " * 4 )
